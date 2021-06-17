@@ -1,25 +1,16 @@
 from flask import Flask, render_template, request, make_response, jsonify
 from geopy.geocoders import Nominatim
-import pymongo
+from flask_pymongo import PyMongo
 import json
+import os
 
-
-class mongo_connection:
-    conn = None
-
-    def connect(self):
-        myclient = pymongo.MongoClient("mongodb://localhost:27017/")
-        mydb = myclient["restaurant_app"]
-        self.conn = mydb["restaurants"]
-
-    def query(self, sql):
-        cursor = self.conn.find(sql)
-        return cursor
-
-
-db = mongo_connection()
-db.connect()
 app = Flask(__name__)
+
+app.config["MONGO_URI"] = 'mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + \
+    '@' + os.environ['MONGODB_HOSTNAME'] + \
+    ':27017/' + os.environ['MONGODB_DATABASE']
+mongo = PyMongo(app)
+conn = mongo.db
 
 
 @app.route("/")
@@ -61,8 +52,7 @@ def getrestaurants():
                                             "$maxDistance": int(rad) * METERS_PER_MILE}},
                "name": {"$regex": restname, "$options": "i"}}
 
-    cursor = db.conn.find(filters)
-
+    cursor = conn.find(filters)
 
     for cur in cursor:
         nearby_restaurants.append({
@@ -76,4 +66,6 @@ def getrestaurants():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=9763, debug=True)
+    ENVIRONMENT_DEBUG = os.environ.get("APP_DEBUG", True)
+    ENVIRONMENT_PORT = os.environ.get("APP_PORT", 5000)
+    app.run(host='0.0.0.0', port=ENVIRONMENT_PORT, debug=ENVIRONMENT_DEBUG)
