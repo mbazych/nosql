@@ -11,9 +11,9 @@ services:
       APP_ENV: "prod"
       APP_DEBUG: "False"
       APP_PORT: 5000
-      MONGODB_DATABASE: flaskdb
-      MONGODB_USERNAME: flaskuser
-      MONGODB_PASSWORD: your_mongodb_password
+      MONGODB_DATABASE: restaurant_app
+      MONGODB_USERNAME: mongodbuser
+      MONGODB_PASSWORD: mongodbuserpassword
       MONGODB_HOSTNAME: mongodb
     volumes:
       - appdata:/var/www
@@ -30,8 +30,8 @@ services:
     command: mongod --auth
     environment:
       MONGO_INITDB_ROOT_USERNAME: mongodbuser
-      MONGO_INITDB_ROOT_PASSWORD: your_mongodb_root_password
-      MONGO_INITDB_DATABASE: flaskdb
+      MONGO_INITDB_ROOT_PASSWORD: mongodbuserpassword
+      MONGO_INITDB_DATABASE: restaurant_app
       MONGODB_DATA_DIR: /data/db
       MONDODB_LOG_DIR: /dev/null
     volumes:

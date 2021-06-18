@@ -4,21 +4,21 @@ from flask_pymongo import PyMongo
 import json
 import os
 
-app = Flask(__name__)
+application = Flask(__name__)
 
-app.config["MONGO_URI"] = 'mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + \
+application.config["MONGO_URI"] = 'mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + \
     '@' + os.environ['MONGODB_HOSTNAME'] + \
     ':27017/' + os.environ['MONGODB_DATABASE']
-mongo = PyMongo(app)
+mongo = PyMongo(application)
 conn = mongo.db
 
 
-@app.route("/")
+@application.route("/")
 def index():
-    return render_template("index.html")
+    return render_template("templates/index.html")
 
 
-@app.route("/api/v1.0/tasks/autoc2/restaurantfinder", methods=["GET"])
+@application.route("/api/v1.0/tasks/autoc2/restaurantfinder", methods=["GET"])
 def getrestaurants():
     restname = request.args.get("restaurant")
     city = request.args.get("city")
@@ -34,7 +34,7 @@ def getrestaurants():
     print(zip_or_addr)
     print(f"zip_or_addr: {zip_or_addr}")
 
-    geolocator = Nominatim(user_agent="myapplication")
+    geolocator = Nominatim(user_agent="myapplicationlication")
     location = geolocator.geocode(zip_or_addr, timeout=10000)
     lat = float(location.raw["lat"])
     lon = float(location.raw["lon"])
@@ -55,7 +55,7 @@ def getrestaurants():
     cursor = conn.find(filters)
 
     for cur in cursor:
-        nearby_restaurants.append({
+        nearby_restaurants.applicationend({
             "restaurant_name": cur["name"],
             "lat": cur["location"]["coordinates"][1],
             "lon": cur["location"]["coordinates"][0]
@@ -68,4 +68,4 @@ def getrestaurants():
 if __name__ == "__main__":
     ENVIRONMENT_DEBUG = os.environ.get("APP_DEBUG", True)
     ENVIRONMENT_PORT = os.environ.get("APP_PORT", 5000)
-    app.run(host='0.0.0.0', port=ENVIRONMENT_PORT, debug=ENVIRONMENT_DEBUG)
+    application.run(host='0.0.0.0', port=ENVIRONMENT_PORT, debug=ENVIRONMENT_DEBUG)
