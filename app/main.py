@@ -15,7 +15,7 @@ conn = mongo.db
 
 @application.route("/")
 def index():
-    return render_template("templates/index.html")
+    return render_template("index.html")
 
 
 @application.route("/api/v1.0/tasks/autoc2/restaurantfinder", methods=["GET"])
@@ -52,7 +52,7 @@ def getrestaurants():
                                             "$maxDistance": int(rad) * METERS_PER_MILE}},
                "name": {"$regex": restname, "$options": "i"}}
 
-    cursor = conn.find(filters)
+    cursor = conn.restaurants.find(filters)
 
     for cur in cursor:
         nearby_restaurants.applicationend({
