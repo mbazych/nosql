@@ -33,11 +33,7 @@ def addrestaurant():
     lat = float(location.raw["lat"])
     lon = float(location.raw["lon"])
     new_restaurant = [{"orig_lat": lat, "orig_lon": lon}]
-    cursor = conn.restaurants.insert(
-            { "lat": lat,
-              "lon": lon,
-              "restaurant_name": restname
-              })
+    cursor = conn.restaurants.insert_one( { "location": {  "coordinates": [ lon, lat ],  "type": "Point"}, "name": restname })
     print(cursor)
     return(jsonify(new_restaurant))
 

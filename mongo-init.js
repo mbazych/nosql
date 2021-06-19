@@ -10,4 +10,4 @@ db.createUser(
             ]
         }
 );
-db.restaurants.createIndex({restaurants:"2dsphere"})
+db.restaurants.createIndex({location:"2dsphere"})
