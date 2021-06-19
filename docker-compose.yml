@@ -22,7 +22,7 @@ services:
     networks:
       - frontend
       - backend
-
+  
   mongodb:
     image: mongo:4.0.8
     container_name: mongo
@@ -35,6 +35,9 @@ services:
       MONGODB_DATA_DIR: /data/db
       MONDODB_LOG_DIR: /dev/null
     volumes:
+      - ./data/data.json:/src/data/data.json
+      - ./init.sh:/docker-entrypoint-initdb.d/init.sh:ro    
+      - ./mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro      
       - mongodbdata:/data/db
     networks:
       - backend

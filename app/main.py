@@ -55,7 +55,7 @@ def getrestaurants():
     cursor = conn.restaurants.find(filters)
 
     for cur in cursor:
-        nearby_restaurants.applicationend({
+        nearby_restaurants.append({
             "restaurant_name": cur["name"],
             "lat": cur["location"]["coordinates"][1],
             "lon": cur["location"]["coordinates"][0]
