@@ -17,6 +17,31 @@ conn = mongo.db
 def index():
     return render_template("index.html")
 
+@application.route("/api/v1.0/tasks/autoc2/restaurantadder", methods=["POST"])
+def addrestaurant():
+    restname = request.args.get("restaurant")
+    city = request.args.get("city")
+    state = request.args.get("state")
+    zipcode = request.args.get("zipcode")
+
+    zip_or_addr = city + " " + state + " " + zipcode
+    print(zip_or_addr)
+    print(f"zip_or_addr: {zip_or_addr}")
+
+    geolocator = Nominatim(user_agent="myapplicationlication")
+    location = geolocator.geocode(zip_or_addr, timeout=10000)
+    lat = float(location.raw["lat"])
+    lon = float(location.raw["lon"])
+    new_restaurant = [{"orig_lat": lat, "orig_lon": lon}]
+    cursor = conn.restaurants.insert(
+            { "lat": lat,
+              "lon": lon,
+              "restaurant_name": restname
+              })
+    print(cursor)
+    return(jsonify(new_restaurant))
+
+
 
 @application.route("/api/v1.0/tasks/autoc2/restaurantfinder", methods=["GET"])
 def getrestaurants():
@@ -39,9 +64,6 @@ def getrestaurants():
     lat = float(location.raw["lat"])
     lon = float(location.raw["lon"])
     nearby_restaurants = [{"orig_lat": lat, "orig_lon": lon}]
-
-    print(lat, lon)
-
 
 # {"_id":{"$oid":"55cba2476c522cafdb056c36"},"location":{"coordinates":[-73.9160315,40.7629446],"type":"Point"},"name":"Kentucky Fried Chicken"}
 
