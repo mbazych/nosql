@@ -7,8 +7,10 @@ import os
 application = Flask(__name__)
 
 application.config["MONGO_URI"] = 'mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + \
-    '@' + os.environ['MONGODB_HOSTNAME'] + \
-    ':27017/' + os.environ['MONGODB_DATABASE']
+   '@' + os.environ['MONGODB_HOSTNAME'] + \
+   ':27017/' + os.environ['MONGODB_DATABASE']
+
+METERS_PER_MILE = 1609.34
 mongo = PyMongo(application)
 conn = mongo.db
 
@@ -61,9 +63,7 @@ def getrestaurants():
     lon = float(location.raw["lon"])
     nearby_restaurants = [{"orig_lat": lat, "orig_lon": lon}]
 
-# {"_id":{"$oid":"55cba2476c522cafdb056c36"},"location":{"coordinates":[-73.9160315,40.7629446],"type":"Point"},"name":"Kentucky Fried Chicken"}
-
-    METERS_PER_MILE = 1609.34
+    
 
     filters = {"location": {"$nearSphere": {"$geometry": {"type": "Point",
                                                           "coordinates": [float(lon), float(lat)]},
@@ -81,6 +81,35 @@ def getrestaurants():
     print("Restaurants: ")
     print(json.dumps(nearby_restaurants))
     return jsonify(nearby_restaurants)
+
+@application.route("/api/v1.0/tasks/autoc2/restaurantsorter", methods=["GET"])
+def sortrestaurants():
+    
+    nearby_restaurants = []
+    cursor = conn.restaurants.find().sort( "name", 1)
+
+    for cur in cursor:
+        nearby_restaurants.append({
+            "restaurant_name": cur["name"],
+            "lat": cur["location"]["coordinates"][1],
+            "lon": cur["location"]["coordinates"][0]
+        })
+
+    return json.dumps(nearby_restaurants)
+
+
+@application.route("/api/v1.0/tasks/autoc2/deleterestaurant", methods=["DELETE"])
+def deleterestaurant():
+    
+    restname = request.args.get("restaurant")
+    filters = {"name": restname }
+
+    cursor = conn.restaurants.delete_one(filters)
+
+ 
+
+    
+    return cursor.raw_result
 
 
 if __name__ == "__main__":

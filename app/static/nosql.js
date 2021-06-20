@@ -63,9 +63,41 @@ var loadoriginIcon = new markerIcon({iconUrl: makeMarkerUri( loadoriginUri )})
          }
 
      });
+    }
+
+     function deleterestaurant() {	 	
+        
+      var restname = document.getElementById("restaurant3").value;  
+
+
+      
+     $.ajax({
+         url: '/api/v1.0/tasks/autoc2/deleterestaurant?restaurant='+restname,
+         type: 'DELETE',
+         dataType: 'json',
+         success: function(data) {
+           return(data)    
+         }
+
+     });
 
 
   }
+
+  function sortrestaurants() {	 	
+    
+   $.ajax({
+       url: '/api/v1.0/tasks/autoc2/restaurantsorter',
+       type: 'GET',
+       dataType: 'json',
+       success: function(data) {
+         return(data)    
+       }
+
+   });
+
+
+}
 
 
 function UpdateMap(data){

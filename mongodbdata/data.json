@@ -24853,7 +24853,6 @@
 {"_id":{"$oid":"55cba2486c522cafdb059bf1"},"location":{"coordinates":[-73.8797091,40.8333888],"type":"Point"},"name":"1380 Bronx River Cafe Corp"}
 {"_id":{"$oid":"55cba2486c522cafdb059bf2"},"location":{"coordinates":[-73.8468523,40.8778435],"type":"Point"},"name":"Parrilla Internacional 2"}
 {"_id":{"$oid":"55cba2486c522cafdb059bf3"},"location":{"coordinates":[-74.0039066,40.7370403],"type":"Point"},"name":"Minerva"}
-{"_id":{"$oid":"55cba2486c522cafdb059bf4"},"location":{"coordinates":[-73.9189064,40.8654529],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059bf5"},"location":{"coordinates":[-73.918212,40.765121],"type":"Point"},"name":"Jujube Tree"}
 {"_id":{"$oid":"55cba2486c522cafdb059bf6"},"location":{"coordinates":[-73.7327789,40.69309],"type":"Point"},"name":"Jamaican Flavors"}
 {"_id":{"$oid":"55cba2486c522cafdb059bf7"},"location":{"coordinates":[-73.833787,40.758943],"type":"Point"},"name":"Sake Bomb"}
@@ -24862,23 +24861,18 @@
 {"_id":{"$oid":"55cba2486c522cafdb059bfa"},"location":{"coordinates":[-73.740126,40.717522],"type":"Point"},"name":"Caribbean Delight"}
 {"_id":{"$oid":"55cba2486c522cafdb059bfb"},"location":{"coordinates":[-73.9910014,40.7453937],"type":"Point"},"name":"Hee Korean Bbq Grill"}
 {"_id":{"$oid":"55cba2486c522cafdb059bfc"},"location":{"coordinates":[-73.7007388,40.7389555],"type":"Point"},"name":"Bismillah Kabab \u0026 Curry"}
-{"_id":{"$oid":"55cba2486c522cafdb059bfd"},"location":{"coordinates":[-73.999813,40.683876],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059bfe"},"location":{"coordinates":[-73.92910859999999,40.8552867],"type":"Point"},"name":"Hang Lung Restaurant"}
 {"_id":{"$oid":"55cba2486c522cafdb059bff"},"location":{"coordinates":[-73.93948859999999,40.6604488],"type":"Point"},"name":"Mr King Food Kitchen"}
-{"_id":{"$oid":"55cba2486c522cafdb059c00"},"location":{"coordinates":[-73.9966882,40.7139264],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c01"},"location":{"coordinates":[-73.95239769999999,40.6762483],"type":"Point"},"name":"Elsie'S Doughnuts"}
 {"_id":{"$oid":"55cba2486c522cafdb059c02"},"location":{"coordinates":[-73.9190358,40.7424425],"type":"Point"},"name":"Dumplings And Things"}
 {"_id":{"$oid":"55cba2486c522cafdb059c03"},"location":{"coordinates":[-73.9890822,40.7587725],"type":"Point"},"name":"Smith'S Hell'S Kitchen Bar \u0026 Restaurant"}
 {"_id":{"$oid":"55cba2486c522cafdb059c04"},"location":{"coordinates":[-73.871895,40.64973],"type":"Point"},"name":"Outback Steakhouse"}
 {"_id":{"$oid":"55cba2486c522cafdb059c05"},"location":{"coordinates":[-73.85143889999999,40.6939422],"type":"Point"},"name":"Subway"}
 {"_id":{"$oid":"55cba2486c522cafdb059c06"},"location":{"coordinates":[-74.008443,40.7396079],"type":"Point"},"name":"Santina"}
-{"_id":{"$oid":"55cba2486c522cafdb059c07"},"location":{"coordinates":[-74.013391,40.64943],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c08"},"location":{"coordinates":[-73.9451146,40.8156302],"type":"Point"},"name":"Acts 3 Bagels"}
 {"_id":{"$oid":"55cba2486c522cafdb059c09"},"location":{"coordinates":[-73.896832,40.7431569],"type":"Point"},"name":"Lekey Drakpa"}
 {"_id":{"$oid":"55cba2486c522cafdb059c0a"},"location":{"coordinates":[-74.00863199999999,40.713352],"type":"Point"},"name":"Barleycorn"}
-{"_id":{"$oid":"55cba2486c522cafdb059c0b"},"location":{"coordinates":[-73.8668062,40.8547454],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c0c"},"location":{"coordinates":[-73.788088,40.7578592],"type":"Point"},"name":"Papa John'S Pizza"}
-{"_id":{"$oid":"55cba2486c522cafdb059c0d"},"location":{"coordinates":[-73.9521663,40.7172388],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c0e"},"location":{"coordinates":[-73.92365,40.6875267],"type":"Point"},"name":"Chez Alex"}
 {"_id":{"$oid":"55cba2486c522cafdb059c0f"},"location":{"coordinates":[-73.953659,40.78842700000001],"type":"Point"},"name":"Tre Otto"}
 {"_id":{"$oid":"55cba2486c522cafdb059c10"},"location":{"coordinates":[-74.0035706,40.7298385],"type":"Point"},"name":"Jack'S Wife Freda"}
@@ -24886,15 +24880,12 @@
 {"_id":{"$oid":"55cba2486c522cafdb059c12"},"location":{"coordinates":[-73.985338,40.76089899999999],"type":"Point"},"name":"A Marino Restaurant"}
 {"_id":{"$oid":"55cba2486c522cafdb059c13"},"location":{"coordinates":[-73.90184140000001,40.7048855],"type":"Point"},"name":"Mexican Apple Bbq"}
 {"_id":{"$oid":"55cba2486c522cafdb059c14"},"location":{"coordinates":[-73.98762359999999,40.7200496],"type":"Point"},"name":"Charrua"}
-{"_id":{"$oid":"55cba2486c522cafdb059c15"},"location":{"coordinates":[-74.00435499999999,40.653897],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059c16"},"location":{"coordinates":[-73.815882,40.787061],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c17"},"location":{"coordinates":[-73.9645756,40.8015352],"type":"Point"},"name":"Spice"}
 {"_id":{"$oid":"55cba2486c522cafdb059c18"},"location":{"coordinates":[-73.73381429999999,40.6933411],"type":"Point"},"name":"A To Z Catering"}
 {"_id":{"$oid":"55cba2486c522cafdb059c19"},"location":{"coordinates":[-73.92240699999999,40.700861],"type":"Point"},"name":"Pasteles Capy"}
 {"_id":{"$oid":"55cba2486c522cafdb059c1a"},"location":{"coordinates":[-73.9576445,40.6442177],"type":"Point"},"name":"Tropical Twist Bakery \u0026 Restaurant "}
 {"_id":{"$oid":"55cba2486c522cafdb059c1b"},"location":{"coordinates":[-73.985671,40.728004],"type":"Point"},"name":"Holiday Cocktail Lounge"}
 {"_id":{"$oid":"55cba2486c522cafdb059c1c"},"location":{"coordinates":[-73.999399,40.716281],"type":"Point"},"name":"Pho Thanh Hoai 1"}
-{"_id":{"$oid":"55cba2486c522cafdb059c1d"},"location":{"coordinates":[-73.9187426,40.8299958],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c1e"},"location":{"coordinates":[-73.98608390000001,40.6893957],"type":"Point"},"name":"Livingston Manor"}
 {"_id":{"$oid":"55cba2486c522cafdb059c1f"},"location":{"coordinates":[-73.9870991,40.7027497],"type":"Point"},"name":"Bread And Spread"}
 {"_id":{"$oid":"55cba2486c522cafdb059c20"},"location":{"coordinates":[-73.8907445,40.6580963],"type":"Point"},"name":"Denny'S"}
@@ -24903,10 +24894,8 @@
 {"_id":{"$oid":"55cba2486c522cafdb059c23"},"location":{"coordinates":[-73.9553624,40.8204466],"type":"Point"},"name":"Bus Stop Dinner"}
 {"_id":{"$oid":"55cba2486c522cafdb059c24"},"location":{"coordinates":[-73.9417369,40.5978342],"type":"Point"},"name":"Papa John'S"}
 {"_id":{"$oid":"55cba2486c522cafdb059c25"},"location":{"coordinates":[-73.9243158,40.75651910000001],"type":"Point"},"name":"Asian Spice \u0026 Tandoor"}
-{"_id":{"$oid":"55cba2486c522cafdb059c26"},"location":{"coordinates":[-73.98764190000001,40.597901],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c27"},"location":{"coordinates":[-73.96444079999999,40.7566294],"type":"Point"},"name":"Pho Saigon"}
 {"_id":{"$oid":"55cba2486c522cafdb059c28"},"location":{"coordinates":[-73.92877,40.810327],"type":"Point"},"name":"Pandora"}
-{"_id":{"$oid":"55cba2486c522cafdb059c29"},"location":{"coordinates":[-73.9835112,40.7408627],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c2a"},"location":{"coordinates":[-74.00702,40.739143],"type":"Point"},"name":"Yiaourti"}
 {"_id":{"$oid":"55cba2486c522cafdb059c2b"},"location":{"coordinates":[-73.82693909999999,40.77147799999999],"type":"Point"},"name":"Great East Chinese Food"}
 {"_id":{"$oid":"55cba2486c522cafdb059c2c"},"location":{"coordinates":[-73.97216999999999,40.755584],"type":"Point"},"name":"La Bellezza"}
@@ -24922,44 +24911,33 @@
 {"_id":{"$oid":"55cba2486c522cafdb059c36"},"location":{"coordinates":[-73.9244794,40.6977154],"type":"Point"},"name":"Bushwick Public House"}
 {"_id":{"$oid":"55cba2486c522cafdb059c37"},"location":{"coordinates":[-73.9874926,40.7607386],"type":"Point"},"name":"Ny Cafe"}
 {"_id":{"$oid":"55cba2486c522cafdb059c38"},"location":{"coordinates":[-73.997855,40.716203],"type":"Point"},"name":"Canton Lounge"}
-{"_id":{"$oid":"55cba2486c522cafdb059c39"},"location":{"coordinates":[-73.96413,40.7120375],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c3a"},"location":{"coordinates":[-73.9355578,40.7427897],"type":"Point"},"name":"Juice Press 10, Llc"}
 {"_id":{"$oid":"55cba2486c522cafdb059c3b"},"location":{"coordinates":[-73.9643413,40.6491205],"type":"Point"},"name":"Mallenche Mexican Grill"}
 {"_id":{"$oid":"55cba2486c522cafdb059c3c"},"location":{"coordinates":[-73.9489861,40.6438506],"type":"Point"},"name":"Combite Creole"}
-{"_id":{"$oid":"55cba2486c522cafdb059c3d"},"location":{"coordinates":[-73.961125,40.594069],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c3e"},"location":{"coordinates":[-73.916887,40.619773],"type":"Point"},"name":"Asian Naruto"}
 {"_id":{"$oid":"55cba2486c522cafdb059c3f"},"location":{"coordinates":[-74.01267399999999,40.63628],"type":"Point"},"name":"Good Brothers Of Brooklyn"}
 {"_id":{"$oid":"55cba2486c522cafdb059c40"},"location":{"coordinates":[-73.86361819999999,40.8381268],"type":"Point"},"name":"Fried Chicken \u0026 Pizza"}
 {"_id":{"$oid":"55cba2486c522cafdb059c41"},"location":{"coordinates":[-73.881143,40.809636],"type":"Point"},"name":"Break Time Sports Bar"}
 {"_id":{"$oid":"55cba2486c522cafdb059c42"},"location":{"coordinates":[-73.96049900000001,40.688567],"type":"Point"},"name":"The Market"}
-{"_id":{"$oid":"55cba2486c522cafdb059c43"},"location":{"coordinates":[-73.92937599999999,40.6421007],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059c44"},"location":{"coordinates":[-73.9964401,40.6951679],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c45"},"location":{"coordinates":[-73.9623146,40.61113],"type":"Point"},"name":"Pizza Plus"}
 {"_id":{"$oid":"55cba2486c522cafdb059c46"},"location":{"coordinates":[-73.833287,40.67885],"type":"Point"},"name":"Seafood \u0026 Steak House"}
 {"_id":{"$oid":"55cba2486c522cafdb059c47"},"location":{"coordinates":[-74.00702,40.739143],"type":"Point"},"name":"Macelleria Butcher Shop"}
 {"_id":{"$oid":"55cba2486c522cafdb059c48"},"location":{"coordinates":[-74.2334759,40.5167888],"type":"Point"},"name":"Peri'S Pearl Tea"}
 {"_id":{"$oid":"55cba2486c522cafdb059c49"},"location":{"coordinates":[-73.9431335,40.80705520000001],"type":"Point"},"name":"Checkers"}
 {"_id":{"$oid":"55cba2486c522cafdb059c4a"},"location":{"coordinates":[-73.99957359999999,40.7616154],"type":"Point"},"name":"Espace"}
-{"_id":{"$oid":"55cba2486c522cafdb059c4b"},"location":{"coordinates":[-73.94310449999999,40.8108763],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c4c"},"location":{"coordinates":[-73.98305169999999,40.72798909999999],"type":"Point"},"name":"Cafe Islan"}
-{"_id":{"$oid":"55cba2486c522cafdb059c4d"},"location":{"coordinates":[-73.970705,40.7953768],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c4e"},"location":{"coordinates":[-74.0714689,40.612412],"type":"Point"},"name":"Phi-Alm Kusina"}
 {"_id":{"$oid":"55cba2486c522cafdb059c4f"},"location":{"coordinates":[-73.985271,40.6707256],"type":"Point"},"name":"New Aarpan"}
 {"_id":{"$oid":"55cba2486c522cafdb059c50"},"location":{"coordinates":[-73.9261085,40.7626515],"type":"Point"},"name":"Karina Guimaraes"}
 {"_id":{"$oid":"55cba2486c522cafdb059c51"},"location":{"coordinates":[-73.9571873,40.74591789999999],"type":"Point"},"name":"Blvd Wine Bar"}
-{"_id":{"$oid":"55cba2486c522cafdb059c52"},"location":{"coordinates":[-73.9372612,40.7966002],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059c53"},"location":{"coordinates":[-73.870897,40.751033],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c54"},"location":{"coordinates":[-73.9823921,40.7476953],"type":"Point"},"name":"Eden Wok"}
 {"_id":{"$oid":"55cba2486c522cafdb059c55"},"location":{"coordinates":[-73.9930095,40.7593177],"type":"Point"},"name":"Adella"}
 {"_id":{"$oid":"55cba2486c522cafdb059c56"},"location":{"coordinates":[-74.0018599,40.726699],"type":"Point"},"name":"Once Upon A Tart"}
-{"_id":{"$oid":"55cba2486c522cafdb059c57"},"location":{"coordinates":[-73.9857624,40.7684922],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c58"},"location":{"coordinates":[-73.950514,40.66703200000001],"type":"Point"},"name":"Brooklyn Bites"}
 {"_id":{"$oid":"55cba2486c522cafdb059c59"},"location":{"coordinates":[-73.9952351,40.6902085],"type":"Point"},"name":"Pair Wine And Cheese"}
-{"_id":{"$oid":"55cba2486c522cafdb059c5a"},"location":{"coordinates":[-74.0095219,40.7069772],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c5b"},"location":{"coordinates":[-73.865095,40.8788265],"type":"Point"},"name":"Little Caesars"}
 {"_id":{"$oid":"55cba2486c522cafdb059c5c"},"location":{"coordinates":[-73.992471,40.7511286],"type":"Point"},"name":"Nice Tail"}
 {"_id":{"$oid":"55cba2486c522cafdb059c5d"},"location":{"coordinates":[-73.8876397,40.8374335],"type":"Point"},"name":"Ranch Restaurant"}
-{"_id":{"$oid":"55cba2486c522cafdb059c5e"},"location":{"coordinates":[-73.9990337,40.7143954],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c5f"},"location":{"coordinates":[-73.9534879,40.698687],"type":"Point"},"name":"Hali'S Delicatessen"}
 {"_id":{"$oid":"55cba2486c522cafdb059c60"},"location":{"coordinates":[-73.93521710000002,40.69733129999999],"type":"Point"},"name":"La Lupe"}
 {"_id":{"$oid":"55cba2486c522cafdb059c61"},"location":{"coordinates":[-73.9747422,40.754841],"type":"Point"},"name":"Angelo Gordon \u0026 Company"}
@@ -24975,40 +24953,27 @@
 {"_id":{"$oid":"55cba2486c522cafdb059c6b"},"location":{"coordinates":[-74.0027988,40.7293875],"type":"Point"},"name":"Cafe Clover"}
 {"_id":{"$oid":"55cba2486c522cafdb059c6c"},"location":{"coordinates":[-73.9972557,40.7180202],"type":"Point"},"name":"12 Corners Coffee Inc"}
 {"_id":{"$oid":"55cba2486c522cafdb059c6d"},"location":{"coordinates":[-73.769038,40.758992],"type":"Point"},"name":"Kkee"}
-{"_id":{"$oid":"55cba2486c522cafdb059c6e"},"location":{"coordinates":[-73.863485,40.71863],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c6f"},"location":{"coordinates":[-73.8728885,40.6750709],"type":"Point"},"name":"Lee Good Taste Kitchen"}
-{"_id":{"$oid":"55cba2486c522cafdb059c70"},"location":{"coordinates":[-73.98029629999999,40.7750164],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059c71"},"location":{"coordinates":[-74.1685967,40.5594924],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c72"},"location":{"coordinates":[-73.9916296,40.6906013],"type":"Point"},"name":"Checker"}
-{"_id":{"$oid":"55cba2486c522cafdb059c73"},"location":{"coordinates":[-73.79364439999999,40.780342],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c74"},"location":{"coordinates":[-73.8697474,40.8328114],"type":"Point"},"name":"Sandy Deli \u0026 Mexican Grill"}
 {"_id":{"$oid":"55cba2486c522cafdb059c75"},"location":{"coordinates":[-73.9019161,40.8199807],"type":"Point"},"name":"No.1 Kitchen"}
-{"_id":{"$oid":"55cba2486c522cafdb059c76"},"location":{"coordinates":[-73.91303169999999,40.6156113],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c77"},"location":{"coordinates":[-73.99607999999999,40.72208699999999],"type":"Point"},"name":"Birdbath Spring"}
-{"_id":{"$oid":"55cba2486c522cafdb059c78"},"location":{"coordinates":[-73.9987517,40.6931825],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c79"},"location":{"coordinates":[-73.91303169999999,40.6156113],"type":"Point"},"name":"Gourmet Bagel Shoppe"}
 {"_id":{"$oid":"55cba2486c522cafdb059c7a"},"location":{"coordinates":[-73.7621935,40.7135961],"type":"Point"},"name":"Code  Lounge"}
 {"_id":{"$oid":"55cba2486c522cafdb059c7b"},"location":{"coordinates":[-73.7436824,40.6770097],"type":"Point"},"name":"China Wok"}
 {"_id":{"$oid":"55cba2486c522cafdb059c7c"},"location":{"coordinates":[-73.987905,40.760379],"type":"Point"},"name":"Subway And Pizza"}
-{"_id":{"$oid":"55cba2486c522cafdb059c7d"},"location":{"coordinates":[-73.887771,40.701581],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c7e"},"location":{"coordinates":[-74.003074,40.7338569],"type":"Point"},"name":"Cha Lait"}
 {"_id":{"$oid":"55cba2486c522cafdb059c7f"},"location":{"coordinates":[-74.008938,40.63641],"type":"Point"},"name":"Duo Ro Restaurant"}
 {"_id":{"$oid":"55cba2486c522cafdb059c80"},"location":{"coordinates":[-73.946904,40.780619],"type":"Point"},"name":"New Fresh Wok"}
 {"_id":{"$oid":"55cba2486c522cafdb059c81"},"location":{"coordinates":[-73.9758303,40.7456331],"type":"Point"},"name":"Ginza Sushi"}
-{"_id":{"$oid":"55cba2486c522cafdb059c82"},"location":{"coordinates":[-73.939885,40.79940879999999],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c83"},"location":{"coordinates":[-73.99039479999999,40.754399],"type":"Point"},"name":"Ron Ben-Israel Cakes"}
 {"_id":{"$oid":"55cba2486c522cafdb059c84"},"location":{"coordinates":[-73.8693012,40.7485076],"type":"Point"},"name":"Skylinne Corp"}
 {"_id":{"$oid":"55cba2486c522cafdb059c85"},"location":{"coordinates":[-73.9403346,40.6928013],"type":"Point"},"name":"Sajoma Restaurant"}
-{"_id":{"$oid":"55cba2486c522cafdb059c86"},"location":{"coordinates":[-73.9145874,40.6989841],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059c87"},"location":{"coordinates":[-73.9770829,40.78539],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c88"},"location":{"coordinates":[-73.9792133,40.6786965],"type":"Point"},"name":"Miti Miti Taperia"}
 {"_id":{"$oid":"55cba2486c522cafdb059c89"},"location":{"coordinates":[-73.89310739999999,40.7545576],"type":"Point"},"name":"Armondo'S Italian Restaurant"}
 {"_id":{"$oid":"55cba2486c522cafdb059c8a"},"location":{"coordinates":[-73.9590164,40.7174889],"type":"Point"},"name":"Tiny Empire"}
-{"_id":{"$oid":"55cba2486c522cafdb059c8b"},"location":{"coordinates":[-74.1628108,40.6068538],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059c8c"},"location":{"coordinates":[-73.769038,40.758992],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c8d"},"location":{"coordinates":[-73.98268829999999,40.689858],"type":"Point"},"name":"Express Fulton Fried Chicken \u0026 Pizza"}
 {"_id":{"$oid":"55cba2486c522cafdb059c8e"},"location":{"coordinates":[-73.9885752,40.7694808],"type":"Point"},"name":"Justinos Pizzeria"}
-{"_id":{"$oid":"55cba2486c522cafdb059c8f"},"location":{"coordinates":[-73.95568519999999,40.77900899999999],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c90"},"location":{"coordinates":[-73.987646,40.7628267],"type":"Point"},"name":"New World Stages \u0026 The Green Room"}
 {"_id":{"$oid":"55cba2486c522cafdb059c91"},"location":{"coordinates":[-74.07725599999999,40.627201],"type":"Point"},"name":"Defontes"}
 {"_id":{"$oid":"55cba2486c522cafdb059c92"},"location":{"coordinates":[-73.9336821,40.6323335],"type":"Point"},"name":"Aura Bar \u0026 Lounge"}
@@ -25017,53 +24982,33 @@
 {"_id":{"$oid":"55cba2486c522cafdb059c95"},"location":{"coordinates":[-73.8877911,40.74958],"type":"Point"},"name":"The Original American Chicken"}
 {"_id":{"$oid":"55cba2486c522cafdb059c96"},"location":{"coordinates":[-74.15872019999999,40.6119754],"type":"Point"},"name":"M\u0026J Pizza"}
 {"_id":{"$oid":"55cba2486c522cafdb059c97"},"location":{"coordinates":[-73.91832529999999,40.7621769],"type":"Point"},"name":"Sabor De Cuba"}
-{"_id":{"$oid":"55cba2486c522cafdb059c98"},"location":{"coordinates":[-73.98761379999999,40.7368831],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c99"},"location":{"coordinates":[-73.9785821,40.7248837],"type":"Point"},"name":"Pastabar Cafe Corp"}
-{"_id":{"$oid":"55cba2486c522cafdb059c9a"},"location":{"coordinates":[-73.92765,40.864901],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059c9b"},"location":{"coordinates":[-73.8697615,40.8326862],"type":"Point"},"name":"Legends Bar \u0026 Restaurant"}
 {"_id":{"$oid":"55cba2486c522cafdb059c9c"},"location":{"coordinates":[-73.8177058,40.8203907],"type":"Point"},"name":"Sun'S Kitchen"}
 {"_id":{"$oid":"55cba2486c522cafdb059c9d"},"location":{"coordinates":[-74.14934339999999,40.6254667],"type":"Point"},"name":"Mcdonalds Fast Food Restaurant"}
-{"_id":{"$oid":"55cba2486c522cafdb059c9e"},"location":{"coordinates":[-73.9831469,40.7310121],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059c9f"},"location":{"coordinates":[-73.94904009999999,40.7109671],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059ca0"},"location":{"coordinates":[-73.9756237,40.7394093],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059ca1"},"location":{"coordinates":[-73.947102,40.62698899999999],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059ca2"},"location":{"coordinates":[-74.132871,40.558924],"type":"Point"},"name":"Exclusive Catering"}
 {"_id":{"$oid":"55cba2486c522cafdb059ca3"},"location":{"coordinates":[-73.971193,40.756258],"type":"Point"},"name":"Ibis"}
-{"_id":{"$oid":"55cba2486c522cafdb059ca4"},"location":{"coordinates":[-73.9124673,40.7702415],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059ca5"},"location":{"coordinates":[-73.8979777,40.8837949],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059ca6"},"location":{"coordinates":[-73.9005025,40.7292549],"type":"Point"},"name":"Il Postino Pizza And Caffe"}
 {"_id":{"$oid":"55cba2486c522cafdb059ca7"},"location":{"coordinates":[-73.9927832,40.73325759999999],"type":"Point"},"name":"Ootoya"}
 {"_id":{"$oid":"55cba2486c522cafdb059ca8"},"location":{"coordinates":[-74.1028826,40.5880358],"type":"Point"},"name":"M \u0026 K Spanish Restaurant Bar"}
 {"_id":{"$oid":"55cba2486c522cafdb059ca9"},"location":{"coordinates":[-73.8680742,40.7486515],"type":"Point"},"name":"Gui Lin Mi Fen"}
-{"_id":{"$oid":"55cba2486c522cafdb059caa"},"location":{"coordinates":[-73.829769,40.7572039],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cab"},"location":{"coordinates":[-73.83417969999999,40.7576305],"type":"Point"},"name":"Runway69"}
-{"_id":{"$oid":"55cba2486c522cafdb059cac"},"location":{"coordinates":[-73.9815764,40.7576629],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cad"},"location":{"coordinates":[-74.0064463,40.723512],"type":"Point"},"name":"The Mill"}
 {"_id":{"$oid":"55cba2486c522cafdb059cae"},"location":{"coordinates":[-74.0002331,40.7174105],"type":"Point"},"name":"Maid Cafe"}
 {"_id":{"$oid":"55cba2486c522cafdb059caf"},"location":{"coordinates":[-73.9396129,40.748903],"type":"Point"},"name":"Cranberry"}
-{"_id":{"$oid":"55cba2486c522cafdb059cb0"},"location":{"coordinates":[-74.123689,40.6131799],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cb1"},"location":{"coordinates":[-73.98978509999999,40.7487912],"type":"Point"},"name":"Cafe R"}
-{"_id":{"$oid":"55cba2486c522cafdb059cb2"},"location":{"coordinates":[-74.00702,40.739143],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059cb3"},"location":{"coordinates":[-73.90535799999999,40.83126],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059cb4"},"location":{"coordinates":[-73.961641,40.661018],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cb5"},"location":{"coordinates":[-73.94360379999999,40.82619649999999],"type":"Point"},"name":"New Golden Empire Chinese Restaurant"}
 {"_id":{"$oid":"55cba2486c522cafdb059cb6"},"location":{"coordinates":[-81.66436360000002,30.4822925],"type":"Point"},"name":"Camden Food Express"}
 {"_id":{"$oid":"55cba2486c522cafdb059cb7"},"location":{"coordinates":[-73.74438599999999,40.72918],"type":"Point"},"name":"Mcdonald'S"}
 {"_id":{"$oid":"55cba2486c522cafdb059cb8"},"location":{"coordinates":[-73.9966018,40.7377269],"type":"Point"},"name":"Hendel Products \u0026 Hendel Enterprises/ Mcdonald'S"}
-{"_id":{"$oid":"55cba2486c522cafdb059cb9"},"location":{"coordinates":[-73.81471359999999,40.75541380000001],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cba"},"location":{"coordinates":[-73.9791516,40.7506861],"type":"Point"},"name":"Shelley'S Kitchen"}
 {"_id":{"$oid":"55cba2486c522cafdb059cbb"},"location":{"coordinates":[-73.9610491,40.6942049],"type":"Point"},"name":"Moot Bar"}
-{"_id":{"$oid":"55cba2486c522cafdb059cbc"},"location":{"coordinates":[-74.149847,40.537447],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cbd"},"location":{"coordinates":[-73.8703996,40.6780463],"type":"Point"},"name":"Dunkin Donuts"}
-{"_id":{"$oid":"55cba2486c522cafdb059cbe"},"location":{"coordinates":[-73.7886694,40.7266761],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cbf"},"location":{"coordinates":[-73.8855118,40.8547274],"type":"Point"},"name":"Las Qrquideas Restaurant"}
 {"_id":{"$oid":"55cba2486c522cafdb059cc0"},"location":{"coordinates":[-73.9864389,40.691759],"type":"Point"},"name":"Asian City"}
 {"_id":{"$oid":"55cba2486c522cafdb059cc1"},"location":{"coordinates":[-73.9181995,40.6684135],"type":"Point"},"name":"Wing-N-It"}
-{"_id":{"$oid":"55cba2486c522cafdb059cc2"},"location":{"coordinates":[-73.95327,40.802902],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059cc3"},"location":{"coordinates":[-73.9120185,40.7671532],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cc4"},"location":{"coordinates":[-73.9758839,40.747848],"type":"Point"},"name":"Sons Of Thunder"}
 {"_id":{"$oid":"55cba2486c522cafdb059cc5"},"location":{"coordinates":[-73.9586657,40.709249],"type":"Point"},"name":"Lefeu Lounge5"}
-{"_id":{"$oid":"55cba2486c522cafdb059cc6"},"location":{"coordinates":[-73.97349799999999,40.590427],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cc7"},"location":{"coordinates":[-73.9671278,40.7991611],"type":"Point"},"name":"Dunkin Donuts"}
 {"_id":{"$oid":"55cba2486c522cafdb059cc8"},"location":{"coordinates":[-73.9155789,40.779247],"type":"Point"},"name":"Locus Cafe"}
 {"_id":{"$oid":"55cba2486c522cafdb059cc9"},"location":{"coordinates":[-73.95467239999999,40.7418355],"type":"Point"},"name":"Bricktown Bagels \u0026 Cafe"}
@@ -25072,7 +25017,6 @@
 {"_id":{"$oid":"55cba2486c522cafdb059ccc"},"location":{"coordinates":[-73.9588694,40.7753242],"type":"Point"},"name":"Vive La Crepe"}
 {"_id":{"$oid":"55cba2486c522cafdb059ccd"},"location":{"coordinates":[-73.821828,40.686883],"type":"Point"},"name":"Flavor-Fi"}
 {"_id":{"$oid":"55cba2486c522cafdb059cce"},"location":{"coordinates":[-73.95768699999999,40.645156],"type":"Point"},"name":"Ab Halal Restaurant"}
-{"_id":{"$oid":"55cba2486c522cafdb059ccf"},"location":{"coordinates":[-73.9906843,40.7143771],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cd0"},"location":{"coordinates":[-73.947611,40.724568],"type":"Point"},"name":"Sweet Fox Cafe"}
 {"_id":{"$oid":"55cba2486c522cafdb059cd1"},"location":{"coordinates":[-73.97172789999999,40.749838],"type":"Point"},"name":"Ground-Central"}
 {"_id":{"$oid":"55cba2486c522cafdb059cd2"},"location":{"coordinates":[-74.0012995,40.6874736],"type":"Point"},"name":"The Hop Shop"}
@@ -25092,14 +25036,12 @@
 {"_id":{"$oid":"55cba2486c522cafdb059ce0"},"location":{"coordinates":[-73.9938576,40.6860497],"type":"Point"},"name":"June"}
 {"_id":{"$oid":"55cba2486c522cafdb059ce1"},"location":{"coordinates":[-73.8421776,40.8407162],"type":"Point"},"name":"Bronx Brick Oven Pizza"}
 {"_id":{"$oid":"55cba2486c522cafdb059ce2"},"location":{"coordinates":[-73.97909899999999,40.754174],"type":"Point"},"name":"Bread \u0026 Butter"}
-{"_id":{"$oid":"55cba2486c522cafdb059ce3"},"location":{"coordinates":[-73.9131017,40.76659679999999],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059ce4"},"location":{"coordinates":[-73.9880604,40.7288765],"type":"Point"},"name":"Df Mavens"}
 {"_id":{"$oid":"55cba2486c522cafdb059ce5"},"location":{"coordinates":[-73.9410809,40.7036157],"type":"Point"},"name":"Reconnect"}
 {"_id":{"$oid":"55cba2486c522cafdb059ce6"},"location":{"coordinates":[-73.83403600000001,40.678521],"type":"Point"},"name":"Subway"}
 {"_id":{"$oid":"55cba2486c522cafdb059ce7"},"location":{"coordinates":[-74.00408460000001,40.7382182],"type":"Point"},"name":"Aux Merveilleux De Fred"}
 {"_id":{"$oid":"55cba2486c522cafdb059ce8"},"location":{"coordinates":[-74.0066083,40.7192553],"type":"Point"},"name":"Gotan"}
 {"_id":{"$oid":"55cba2486c522cafdb059ce9"},"location":{"coordinates":[-73.998102,40.605139],"type":"Point"},"name":"Han Wong Restaurant"}
-{"_id":{"$oid":"55cba2486c522cafdb059cea"},"location":{"coordinates":[-73.9227839,40.706806],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059ceb"},"location":{"coordinates":[-73.969526,40.622695],"type":"Point"},"name":"1061 Catering Llc"}
 {"_id":{"$oid":"55cba2486c522cafdb059cec"},"location":{"coordinates":[-73.932366,40.8461714],"type":"Point"},"name":"La Yola"}
 {"_id":{"$oid":"55cba2486c522cafdb059ced"},"location":{"coordinates":[-73.842838,40.675016],"type":"Point"},"name":"Viva Mis Empanadas"}
@@ -25107,38 +25049,29 @@
 {"_id":{"$oid":"55cba2486c522cafdb059cef"},"location":{"coordinates":[-73.9941942,40.6154482],"type":"Point"},"name":"United Wong"}
 {"_id":{"$oid":"55cba2486c522cafdb059cf0"},"location":{"coordinates":[-73.86612,40.862948],"type":"Point"},"name":"Don D. Roberto Restaurant"}
 {"_id":{"$oid":"55cba2486c522cafdb059cf1"},"location":{"coordinates":[-74.00219299999999,40.6855138],"type":"Point"},"name":"Poppy'S Catering"}
-{"_id":{"$oid":"55cba2486c522cafdb059cf2"},"location":{"coordinates":[-73.9493019,40.6483173],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cf3"},"location":{"coordinates":[-73.9606684,40.6611406],"type":"Point"},"name":"New Peking"}
-{"_id":{"$oid":"55cba2486c522cafdb059cf4"},"location":{"coordinates":[-73.8291593,40.7575238],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cf5"},"location":{"coordinates":[-74.0033022,40.7235057],"type":"Point"},"name":"Subway"}
-{"_id":{"$oid":"55cba2486c522cafdb059cf6"},"location":{"coordinates":[-73.8341803,40.7576324],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cf7"},"location":{"coordinates":[-73.9866285,40.7415086],"type":"Point"},"name":"Credit Suisse"}
 {"_id":{"$oid":"55cba2486c522cafdb059cf8"},"location":{"coordinates":[-74.008065,40.636593],"type":"Point"},"name":"Uncle Wang Chinese Food"}
-{"_id":{"$oid":"55cba2486c522cafdb059cf9"},"location":{"coordinates":[-73.98521319999999,40.7234564],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cfa"},"location":{"coordinates":[-73.982976,40.7599775],"type":"Point"},"name":"Radio City Pizza"}
 {"_id":{"$oid":"55cba2486c522cafdb059cfb"},"location":{"coordinates":[-73.8620219,40.8306707],"type":"Point"},"name":"Body Fitness Ny Juice \u0026 Protein Bar"}
-{"_id":{"$oid":"55cba2486c522cafdb059cfc"},"location":{"coordinates":[-73.9407018,40.834426],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059cfd"},"location":{"coordinates":[-73.969487,40.6405079],"type":"Point"},"name":"Navruz Bread"}
 {"_id":{"$oid":"55cba2486c522cafdb059cfe"},"location":{"coordinates":[-73.986223,40.7529899],"type":"Point"},"name":"Savour Sichuan"}
-{"_id":{"$oid":"55cba2486c522cafdb059cff"},"location":{"coordinates":[-73.95438899999999,40.815349],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d00"},"location":{"coordinates":[-74.0115811,40.6366999],"type":"Point"},"name":"Jing Way Food"}
 {"_id":{"$oid":"55cba2486c522cafdb059d01"},"location":{"coordinates":[-73.9854939,40.6410624],"type":"Point"},"name":"Chelsea'S Juice Factory"}
 {"_id":{"$oid":"55cba2486c522cafdb059d02"},"location":{"coordinates":[-73.864605,40.727101],"type":"Point"},"name":"Pritesh"}
 {"_id":{"$oid":"55cba2486c522cafdb059d03"},"location":{"coordinates":[-73.7123065,40.746909],"type":"Point"},"name":"Marcella'S Pizza And Catering"}
-{"_id":{"$oid":"55cba2486c522cafdb059d04"},"location":{"coordinates":[-73.85747540000001,40.8480472],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d05"},"location":{"coordinates":[-73.9841282,40.749761],"type":"Point"},"name":"''W'' Cafe"}
 {"_id":{"$oid":"55cba2486c522cafdb059d06"},"location":{"coordinates":[-73.94871789999999,40.8283685],"type":"Point"},"name":"The Handpulled Noodle"}
 {"_id":{"$oid":"55cba2486c522cafdb059d07"},"location":{"coordinates":[-73.9827407,40.7419261],"type":"Point"},"name":"Lahori Tikka Masala"}
 {"_id":{"$oid":"55cba2486c522cafdb059d08"},"location":{"coordinates":[-73.87995269999999,40.7500901],"type":"Point"},"name":"Pizza La Boca"}
 {"_id":{"$oid":"55cba2486c522cafdb059d09"},"location":{"coordinates":[-73.8408115,40.7812795],"type":"Point"},"name":"Lulu Seafood Restaurant"}
-{"_id":{"$oid":"55cba2486c522cafdb059d0a"},"location":{"coordinates":[-73.90478999999999,40.70122689999999],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d0b"},"location":{"coordinates":[-74.0018175,40.719121],"type":"Point"},"name":"Cafe Bari"}
 {"_id":{"$oid":"55cba2486c522cafdb059d0c"},"location":{"coordinates":[-73.887705,40.678717],"type":"Point"},"name":"Br International Restaurant"}
 {"_id":{"$oid":"55cba2486c522cafdb059d0d"},"location":{"coordinates":[-73.87025299999999,40.6502743],"type":"Point"},"name":"Dunkin Donuts"}
 {"_id":{"$oid":"55cba2486c522cafdb059d0e"},"location":{"coordinates":[-73.955399,40.713596],"type":"Point"},"name":"Momofuku Milk Bar"}
 {"_id":{"$oid":"55cba2486c522cafdb059d0f"},"location":{"coordinates":[-73.9814514,40.7293344],"type":"Point"},"name":"Raclette"}
 {"_id":{"$oid":"55cba2486c522cafdb059d10"},"location":{"coordinates":[-73.98823060000001,40.7587649],"type":"Point"},"name":"Wooly'S Nyc "}
-{"_id":{"$oid":"55cba2486c522cafdb059d11"},"location":{"coordinates":[-73.8932667,40.8239653],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d12"},"location":{"coordinates":[-73.9579042,40.67171099999999],"type":"Point"},"name":"Morris Sandwich Shop"}
 {"_id":{"$oid":"55cba2486c522cafdb059d13"},"location":{"coordinates":[-74.0126296,40.7060086],"type":"Point"},"name":"Tarallucci E Vino"}
 {"_id":{"$oid":"55cba2486c522cafdb059d14"},"location":{"coordinates":[-73.9998325,40.7429533],"type":"Point"},"name":"Prova"}
@@ -25151,14 +25084,8 @@
 {"_id":{"$oid":"55cba2486c522cafdb059d1b"},"location":{"coordinates":[-73.9103908,40.8246173],"type":"Point"},"name":"Merry Land"}
 {"_id":{"$oid":"55cba2486c522cafdb059d1c"},"location":{"coordinates":[-73.9571409,40.650719],"type":"Point"},"name":"Wa Sushi \u0026 Thai"}
 {"_id":{"$oid":"55cba2486c522cafdb059d1d"},"location":{"coordinates":[-73.9125467,40.7745705],"type":"Point"},"name":"Artichoke Basille'S Pizza"}
-{"_id":{"$oid":"55cba2486c522cafdb059d1e"},"location":{"coordinates":[-73.91804859999999,40.8484608],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d1f"},"location":{"coordinates":[-73.9309799,40.6705371],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d20"},"location":{"coordinates":[-73.9480418,40.7229137],"type":"Point"},"name":"Toro Iron Works Kitchen"}
-{"_id":{"$oid":"55cba2486c522cafdb059d21"},"location":{"coordinates":[-73.950456,40.672989],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d22"},"location":{"coordinates":[-73.8979294,40.78060670000001],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d23"},"location":{"coordinates":[-73.920622,40.772076],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d24"},"location":{"coordinates":[-73.94082999999999,40.718567],"type":"Point"},"name":"Ho May Ny"}
-{"_id":{"$oid":"55cba2486c522cafdb059d25"},"location":{"coordinates":[-73.803574,40.761181],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d26"},"location":{"coordinates":[-74.0006957,40.6140695],"type":"Point"},"name":"Orchid Dynasty Restaurant"}
 {"_id":{"$oid":"55cba2486c522cafdb059d27"},"location":{"coordinates":[-73.9552561,40.804158],"type":"Point"},"name":"Rafi 786"}
 {"_id":{"$oid":"55cba2486c522cafdb059d28"},"location":{"coordinates":[-73.8223663,40.7574653],"type":"Point"},"name":"Lwz"}
@@ -25177,28 +25104,20 @@
 {"_id":{"$oid":"55cba2486c522cafdb059d35"},"location":{"coordinates":[-74.00775209999999,40.7271799],"type":"Point"},"name":"Westville"}
 {"_id":{"$oid":"55cba2486c522cafdb059d36"},"location":{"coordinates":[-73.995408,40.750087],"type":"Point"},"name":"Pad Thai"}
 {"_id":{"$oid":"55cba2486c522cafdb059d37"},"location":{"coordinates":[-73.96558499999999,40.800037],"type":"Point"},"name":"Maharaja Palace"}
-{"_id":{"$oid":"55cba2486c522cafdb059d38"},"location":{"coordinates":[-73.9507314,40.82133169999999],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d39"},"location":{"coordinates":[-73.9880642,40.69204149999999],"type":"Point"},"name":"Blimpie"}
-{"_id":{"$oid":"55cba2486c522cafdb059d3a"},"location":{"coordinates":[-73.9309189,40.6936122],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d3b"},"location":{"coordinates":[-73.96119999999999,40.654848],"type":"Point"},"name":"188 Fast Food Inc"}
 {"_id":{"$oid":"55cba2486c522cafdb059d3c"},"location":{"coordinates":[-73.973606,40.6549546],"type":"Point"},"name":"Elk Coffee"}
-{"_id":{"$oid":"55cba2486c522cafdb059d3d"},"location":{"coordinates":[-74.0032669,40.641929],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d3e"},"location":{"coordinates":[-73.8927403,40.7218615],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d3f"},"location":{"coordinates":[-73.980941,40.7299485],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d40"},"location":{"coordinates":[-73.967181,40.632453],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d41"},"location":{"coordinates":[-73.9373931,40.6514064],"type":"Point"},"name":"Natural Snacks And Beverages"}
 {"_id":{"$oid":"55cba2486c522cafdb059d42"},"location":{"coordinates":[-73.957067,40.690912],"type":"Point"},"name":"Brooklyn Nights"}
 {"_id":{"$oid":"55cba2486c522cafdb059d43"},"location":{"coordinates":[-73.9206487,40.7449667],"type":"Point"},"name":"Spicy Pizza"}
 {"_id":{"$oid":"55cba2486c522cafdb059d44"},"location":{"coordinates":[-73.9414634,40.6178124],"type":"Point"},"name":"Mr. Nosh"}
 {"_id":{"$oid":"55cba2486c522cafdb059d45"},"location":{"coordinates":[-74.073156,40.6457369],"type":"Point"},"name":"River Dock Cafe"}
-{"_id":{"$oid":"55cba2486c522cafdb059d46"},"location":{"coordinates":[-73.98598799999999,40.689476],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d47"},"location":{"coordinates":[-73.95815569999999,40.7694243],"type":"Point"},"name":"Little Vincent'S Pizza"}
 {"_id":{"$oid":"55cba2486c522cafdb059d48"},"location":{"coordinates":[-73.829342,40.7570059],"type":"Point"},"name":"New Shengjin Meishi"}
 {"_id":{"$oid":"55cba2486c522cafdb059d49"},"location":{"coordinates":[-73.8318829,40.6842261],"type":"Point"},"name":"Trini Delite Roti Shop"}
 {"_id":{"$oid":"55cba2486c522cafdb059d4a"},"location":{"coordinates":[-74.0911823,40.5878302],"type":"Point"},"name":"Moon Roof Lounge"}
 {"_id":{"$oid":"55cba2486c522cafdb059d4b"},"location":{"coordinates":[-73.9913223,40.7307693],"type":"Point"},"name":"Bluestone Lane"}
 {"_id":{"$oid":"55cba2486c522cafdb059d4c"},"location":{"coordinates":[-73.9717033,40.7510196],"type":"Point"},"name":"Tres Carnes"}
-{"_id":{"$oid":"55cba2486c522cafdb059d4d"},"location":{"coordinates":[-73.9291252,40.7431247],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d4e"},"location":{"coordinates":[-73.96373179999999,40.7180391],"type":"Point"},"name":"The Camin"}
 {"_id":{"$oid":"55cba2486c522cafdb059d4f"},"location":{"coordinates":[-73.8840869,40.7470209],"type":"Point"},"name":"Tacos Coatzingo"}
 {"_id":{"$oid":"55cba2486c522cafdb059d50"},"location":{"coordinates":[-74.01012899999999,40.635027],"type":"Point"},"name":"New Star Seafood Restaurant"}
@@ -25207,19 +25126,13 @@
 {"_id":{"$oid":"55cba2486c522cafdb059d53"},"location":{"coordinates":[-73.8204162,40.7242458],"type":"Point"},"name":"Bedford Kitchen \u0026 Wine Bar"}
 {"_id":{"$oid":"55cba2486c522cafdb059d54"},"location":{"coordinates":[-73.9993656,40.734915],"type":"Point"},"name":"Gingersnaps Organic"}
 {"_id":{"$oid":"55cba2486c522cafdb059d55"},"location":{"coordinates":[-73.98427099999999,40.609936],"type":"Point"},"name":"Best Pizza"}
-{"_id":{"$oid":"55cba2486c522cafdb059d56"},"location":{"coordinates":[-73.9075354,40.7173784],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d57"},"location":{"coordinates":[-74.1033838,40.5760758],"type":"Point"},"name":"Ciminna Cafe"}
 {"_id":{"$oid":"55cba2486c522cafdb059d58"},"location":{"coordinates":[-73.93333299999999,40.70937],"type":"Point"},"name":"Our Wicked Lady"}
 {"_id":{"$oid":"55cba2486c522cafdb059d59"},"location":{"coordinates":[-73.83069499999999,40.6602124],"type":"Point"},"name":"Neighborhood Pizza"}
 {"_id":{"$oid":"55cba2486c522cafdb059d5a"},"location":{"coordinates":[-74.0003286,40.71785149999999],"type":"Point"},"name":"Tonc 999"}
 {"_id":{"$oid":"55cba2486c522cafdb059d5b"},"location":{"coordinates":[-73.994264,40.761848],"type":"Point"},"name":"Kiabacca Pizza And Beer"}
 {"_id":{"$oid":"55cba2486c522cafdb059d5c"},"location":{"coordinates":[-73.82688569999999,40.7519411],"type":"Point"},"name":"A+ Chinese Restaurant "}
-{"_id":{"$oid":"55cba2486c522cafdb059d5d"},"location":{"coordinates":[-73.987528,40.7251059],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d5e"},"location":{"coordinates":[-73.946651,40.816918],"type":"Point"},"name":"Harlem Coral Llc"}
-{"_id":{"$oid":"55cba2486c522cafdb059d5f"},"location":{"coordinates":[-73.985129,40.617573],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d60"},"location":{"coordinates":[-73.9547662,40.6187435],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d61"},"location":{"coordinates":[-73.9408881,40.6827984],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d62"},"location":{"coordinates":[-73.8560174,40.7434819],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d63"},"location":{"coordinates":[-73.9851819,40.76308849999999],"type":"Point"},"name":"Chutney Kitchen"}
 {"_id":{"$oid":"55cba2486c522cafdb059d64"},"location":{"coordinates":[-74.00123479999999,40.7186517],"type":"Point"},"name":"August Gatherings"}
 {"_id":{"$oid":"55cba2486c522cafdb059d65"},"location":{"coordinates":[-73.928079,40.856481],"type":"Point"},"name":"Angebienvendia"}
@@ -25227,132 +25140,68 @@
 {"_id":{"$oid":"55cba2486c522cafdb059d67"},"location":{"coordinates":[-73.93353499999999,40.669966],"type":"Point"},"name":"Vital Blends"}
 {"_id":{"$oid":"55cba2486c522cafdb059d68"},"location":{"coordinates":[-74.0947116,40.6413492],"type":"Point"},"name":"New Lucky Garden"}
 {"_id":{"$oid":"55cba2486c522cafdb059d69"},"location":{"coordinates":[-73.9113981,40.7689169],"type":"Point"},"name":"Svl Bar"}
-{"_id":{"$oid":"55cba2486c522cafdb059d6a"},"location":{"coordinates":[-73.86765059999999,40.8986752],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d6b"},"location":{"coordinates":[-73.9550009,40.6879714],"type":"Point"},"name":"Pilar"}
 {"_id":{"$oid":"55cba2486c522cafdb059d6c"},"location":{"coordinates":[-73.9068186,40.8868128],"type":"Point"},"name":"Aquiladolce Inc"}
-{"_id":{"$oid":"55cba2486c522cafdb059d6d"},"location":{"coordinates":[-73.9838851,40.7478694],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d6e"},"location":{"coordinates":[-73.981005,40.783124],"type":"Point"},"name":"Sushi Shop"}
-{"_id":{"$oid":"55cba2486c522cafdb059d6f"},"location":{"coordinates":[-73.9487429,40.789283],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d70"},"location":{"coordinates":[-73.993628,40.756603],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d71"},"location":{"coordinates":[-73.9814451,40.68032669999999],"type":"Point"},"name":"Papa John'S Pizza"}
-{"_id":{"$oid":"55cba2486c522cafdb059d72"},"location":{"coordinates":[-73.874492,40.748879],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d73"},"location":{"coordinates":[-73.987657,40.737832],"type":"Point"},"name":"Momo Sushi"}
 {"_id":{"$oid":"55cba2486c522cafdb059d74"},"location":{"coordinates":[-73.9510614,40.6633278],"type":"Point"},"name":"La Baguette Shop"}
-{"_id":{"$oid":"55cba2486c522cafdb059d75"},"location":{"coordinates":[-73.93612139999999,40.8464904],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d76"},"location":{"coordinates":[-73.9959432,40.7200254],"type":"Point"},"name":"Kabab Bites"}
 {"_id":{"$oid":"55cba2486c522cafdb059d77"},"location":{"coordinates":[-73.9898039,40.7375499],"type":"Point"},"name":"Juice Generation"}
-{"_id":{"$oid":"55cba2486c522cafdb059d78"},"location":{"coordinates":[-73.7896021,40.6731917],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d79"},"location":{"coordinates":[-73.9833565,40.7469411],"type":"Point"},"name":"Buttercup Bake Shop"}
-{"_id":{"$oid":"55cba2486c522cafdb059d7a"},"location":{"coordinates":[-73.985619,40.669583],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d7b"},"location":{"coordinates":[-73.77556969999999,40.7094614],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d7c"},"location":{"coordinates":[-73.93032629999999,40.67031679999999],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d7d"},"location":{"coordinates":[-74.0092184,40.6389546],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d7e"},"location":{"coordinates":[-73.9215679,40.629896],"type":"Point"},"name":"K One Buffet"}
 {"_id":{"$oid":"55cba2486c522cafdb059d7f"},"location":{"coordinates":[-73.9626122,40.7128921],"type":"Point"},"name":"Khao Sarn"}
 {"_id":{"$oid":"55cba2486c522cafdb059d80"},"location":{"coordinates":[-73.986913,40.718723],"type":"Point"},"name":"La Contenta"}
-{"_id":{"$oid":"55cba2486c522cafdb059d81"},"location":{"coordinates":[-73.856492,40.74568],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d82"},"location":{"coordinates":[-73.89826699999999,40.891057],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d83"},"location":{"coordinates":[-73.742758,40.696215],"type":"Point"},"name":"Creole Buffet"}
 {"_id":{"$oid":"55cba2486c522cafdb059d84"},"location":{"coordinates":[-73.9904667,40.7557058],"type":"Point"},"name":"Kiss My Slice"}
-{"_id":{"$oid":"55cba2486c522cafdb059d85"},"location":{"coordinates":[-73.9062879,40.6970522],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d86"},"location":{"coordinates":[-73.8620663,40.7495891],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d87"},"location":{"coordinates":[-73.9994754,40.7446826],"type":"Point"},"name":"The Gem Hotel - Chelsea"}
-{"_id":{"$oid":"55cba2486c522cafdb059d88"},"location":{"coordinates":[-73.7997187,40.7042655],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d89"},"location":{"coordinates":[-73.93944619999999,40.8430067],"type":"Point"},"name":"Cherry Tree Gourmet Station"}
 {"_id":{"$oid":"55cba2486c522cafdb059d8a"},"location":{"coordinates":[-73.941835,40.670481],"type":"Point"},"name":"Boeuf \u0026 Bun"}
 {"_id":{"$oid":"55cba2486c522cafdb059d8b"},"location":{"coordinates":[-73.88827839999999,40.6654973],"type":"Point"},"name":"Manley Restaurant Eat "}
 {"_id":{"$oid":"55cba2486c522cafdb059d8c"},"location":{"coordinates":[-73.8584096,40.750836],"type":"Point"},"name":"El Coral Deli Restaurant"}
-{"_id":{"$oid":"55cba2486c522cafdb059d8d"},"location":{"coordinates":[-73.8958518,40.8468137],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d8e"},"location":{"coordinates":[-73.9538226,40.7108779],"type":"Point"},"name":"Wei Williamsburg"}
-{"_id":{"$oid":"55cba2486c522cafdb059d8f"},"location":{"coordinates":[-73.97718379999999,40.6816615],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d90"},"location":{"coordinates":[-73.89427599999999,40.705532],"type":"Point"},"name":"Coffeenesse"}
-{"_id":{"$oid":"55cba2486c522cafdb059d91"},"location":{"coordinates":[-73.9830297,40.7199715],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d92"},"location":{"coordinates":[-73.9211238,40.7411181],"type":"Point"},"name":"Nonna Gina Pizzeria Restaurant"}
-{"_id":{"$oid":"55cba2486c522cafdb059d93"},"location":{"coordinates":[-73.80963729999999,40.70488539999999],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d94"},"location":{"coordinates":[-73.99081369999999,40.7249455],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d95"},"location":{"coordinates":[-73.91212039999999,40.6134896],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d96"},"location":{"coordinates":[-73.94061200000002,40.806219],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d97"},"location":{"coordinates":[-73.94058799999999,40.692363],"type":"Point"},"name":"Linda Asian Kitchen"}
-{"_id":{"$oid":"55cba2486c522cafdb059d98"},"location":{"coordinates":[-73.985845,40.727263],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d99"},"location":{"coordinates":[-73.99965499999999,40.74281999999999],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059d9a"},"location":{"coordinates":[-73.8417757,40.8417509],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d9b"},"location":{"coordinates":[-73.9797071,40.6453313],"type":"Point"},"name":"Inc."}
-{"_id":{"$oid":"55cba2486c522cafdb059d9c"},"location":{"coordinates":[-73.7675187,40.7557425],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d9d"},"location":{"coordinates":[-73.98823060000001,40.7587649],"type":"Point"},"name":"Whitmans"}
-{"_id":{"$oid":"55cba2486c522cafdb059d9e"},"location":{"coordinates":[-73.97357559999999,40.7901213],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059d9f"},"location":{"coordinates":[-73.9585061,40.8109386],"type":"Point"},"name":"Serafina Morningside"}
-{"_id":{"$oid":"55cba2486c522cafdb059da0"},"location":{"coordinates":[-74.1102822,40.57088419999999],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059da1"},"location":{"coordinates":[-73.947419,40.7903305],"type":"Point"},"name":"Dong'S Great Wok Garden Ii"}
-{"_id":{"$oid":"55cba2486c522cafdb059da2"},"location":{"coordinates":[-73.94514459999999,40.8240196],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059da3"},"location":{"coordinates":[-73.87425,40.7766392],"type":"Point"},"name":"Piccolo  Mercato"}
-{"_id":{"$oid":"55cba2486c522cafdb059da4"},"location":{"coordinates":[-73.9984229,40.7552794],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059da5"},"location":{"coordinates":[-73.8967571,40.894161],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059da6"},"location":{"coordinates":[-74.0089261,40.63606559999999],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059da7"},"location":{"coordinates":[-73.9797476,40.6779298],"type":"Point"},"name":"Bricolage"}
-{"_id":{"$oid":"55cba2486c522cafdb059da8"},"location":{"coordinates":[-73.9518831,40.7495972],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059da9"},"location":{"coordinates":[-73.96627149999999,40.7107469],"type":"Point"},"name":"Streets Restaurant"}
 {"_id":{"$oid":"55cba2486c522cafdb059daa"},"location":{"coordinates":[-73.98823060000001,40.7587649],"type":"Point"},"name":"Luke'S Lobster"}
-{"_id":{"$oid":"55cba2486c522cafdb059dab"},"location":{"coordinates":[-73.923214,40.689884],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059dac"},"location":{"coordinates":[-74.00183729999999,40.7281171],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059dad"},"location":{"coordinates":[-73.92778,40.819083],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059dae"},"location":{"coordinates":[-73.9732705,40.6930524],"type":"Point"},"name":"Curry Place"}
-{"_id":{"$oid":"55cba2486c522cafdb059daf"},"location":{"coordinates":[-73.8776479,40.7504672],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059db0"},"location":{"coordinates":[-74.03116399999999,40.616706],"type":"Point"},"name":"Pasticceria Rocco"}
 {"_id":{"$oid":"55cba2486c522cafdb059db1"},"location":{"coordinates":[-73.98296599999999,40.6189449],"type":"Point"},"name":"Karrios Tea Time"}
 {"_id":{"$oid":"55cba2486c522cafdb059db2"},"location":{"coordinates":[-74.0000467,40.7205087],"type":"Point"},"name":"Oaxaca Taqueria"}
 {"_id":{"$oid":"55cba2486c522cafdb059db3"},"location":{"coordinates":[-74.0049883,40.72132149999999],"type":"Point"},"name":"Roll N Go"}
-{"_id":{"$oid":"55cba2486c522cafdb059db4"},"location":{"coordinates":[-73.9528819,40.8184517],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059db5"},"location":{"coordinates":[-73.98823060000001,40.7587649],"type":"Point"},"name":"Kuro-Obi"}
-{"_id":{"$oid":"55cba2486c522cafdb059db6"},"location":{"coordinates":[-73.92675799999999,40.74696300000001],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059db7"},"location":{"coordinates":[-73.9918041,40.7465254],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059db8"},"location":{"coordinates":[-73.9851971,40.7272642],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059db9"},"location":{"coordinates":[-73.9141866,40.7637158],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059dba"},"location":{"coordinates":[-73.867716,40.84237299999999],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059dbb"},"location":{"coordinates":[-73.999152,40.733435],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059dbc"},"location":{"coordinates":[-73.883287,40.8809826],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059dbd"},"location":{"coordinates":[-73.8950729,40.70217359999999],"type":"Point"},"name":"Gyro World"}
-{"_id":{"$oid":"55cba2486c522cafdb059dbe"},"location":{"coordinates":[-73.82782929999999,40.762493],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059dbf"},"location":{"coordinates":[-73.9529795,40.6716541],"type":"Point"},"name":"Manhattanville Coffee"}
-{"_id":{"$oid":"55cba2486c522cafdb059dc0"},"location":{"coordinates":[-73.95326539999999,40.7719867],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059dc1"},"location":{"coordinates":[-73.99420099999999,40.660136],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059dc2"},"location":{"coordinates":[-73.98570699999999,40.726576],"type":"Point"},"name":"Subway"}
 {"_id":{"$oid":"55cba2486c522cafdb059dc3"},"location":{"coordinates":[-73.8404788,40.7181641],"type":"Point"},"name":"Dunkin Donuts / Baskin Robbins"}
 {"_id":{"$oid":"55cba2486c522cafdb059dc4"},"location":{"coordinates":[-74.16969230000001,40.5602526],"type":"Point"},"name":"Jimmy John'S"}
-{"_id":{"$oid":"55cba2486c522cafdb059dc5"},"location":{"coordinates":[-73.9132747,40.7563128],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059dc6"},"location":{"coordinates":[-73.879436,40.8819159],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059dc7"},"location":{"coordinates":[-73.96627149999999,40.7107469],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059dc8"},"location":{"coordinates":[-73.99154270000001,40.7525029],"type":"Point"},"name":"Juniper"}
 {"_id":{"$oid":"55cba2486c522cafdb059dc9"},"location":{"coordinates":[-73.90725640000001,40.7601082],"type":"Point"},"name":"Rosa Dipietrantinio"}
-{"_id":{"$oid":"55cba2486c522cafdb059dca"},"location":{"coordinates":[-73.92961799999999,40.81970099999999],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059dcb"},"location":{"coordinates":[-74.0156618,40.71137470000001],"type":"Point"},"name":"Northern Tiger"}
 {"_id":{"$oid":"55cba2486c522cafdb059dcc"},"location":{"coordinates":[-73.87637219999999,40.7481849],"type":"Point"},"name":"Pf Queens Inc"}
 {"_id":{"$oid":"55cba2486c522cafdb059dcd"},"location":{"coordinates":[-73.9364836,40.845932],"type":"Point"},"name":"Happy World"}
 {"_id":{"$oid":"55cba2486c522cafdb059dce"},"location":{"coordinates":[-73.8288379,40.5822677],"type":"Point"},"name":"Rockaway Roasters"}
-{"_id":{"$oid":"55cba2486c522cafdb059dcf"},"location":{"coordinates":[-73.9854325,40.7360103],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059dd0"},"location":{"coordinates":[-73.85494849999999,40.8544236],"type":"Point"},"name":"Subway"}
 {"_id":{"$oid":"55cba2486c522cafdb059dd1"},"location":{"coordinates":[-73.8678036,40.7420067],"type":"Point"},"name":"Ta Rico"}
-{"_id":{"$oid":"55cba2486c522cafdb059dd2"},"location":{"coordinates":[-73.98689399999999,40.66804399999999],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059dd3"},"location":{"coordinates":[-73.93065899999999,40.670792],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059dd4"},"location":{"coordinates":[-73.9780339,40.765308],"type":"Point"},"name":"Loi Estiatorio"}
 {"_id":{"$oid":"55cba2486c522cafdb059dd5"},"location":{"coordinates":[-73.8868542,40.7012182],"type":"Point"},"name":"Mahalo New York Bakery"}
 {"_id":{"$oid":"55cba2486c522cafdb059dd6"},"location":{"coordinates":[-73.8848531,40.8544527],"type":"Point"},"name":"187Th St Pizza"}
-{"_id":{"$oid":"55cba2486c522cafdb059dd7"},"location":{"coordinates":[-73.7536695,40.6679426],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059dd8"},"location":{"coordinates":[-73.86912079999999,40.748737],"type":"Point"},"name":"La Pollera Colorada 3"}
-{"_id":{"$oid":"55cba2486c522cafdb059dd9"},"location":{"coordinates":[-74.0791899,40.63838579999999],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059dda"},"location":{"coordinates":[-73.9653622,40.6897478],"type":"Point"},"name":"Luigis Pizzeria"}
 {"_id":{"$oid":"55cba2486c522cafdb059ddb"},"location":{"coordinates":[-73.9454721,40.7253377],"type":"Point"},"name":"Northside Bakery"}
 {"_id":{"$oid":"55cba2486c522cafdb059ddc"},"location":{"coordinates":[-74.1453806,40.5422782],"type":"Point"},"name":"Christine'S Restaurant"}
-{"_id":{"$oid":"55cba2486c522cafdb059ddd"},"location":{"coordinates":[-73.897717,40.72487599999999],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059dde"},"location":{"coordinates":[-74.0010439,40.7380382],"type":"Point"},"name":"Think Coffee"}
 {"_id":{"$oid":"55cba2486c522cafdb059ddf"},"location":{"coordinates":[-73.9508811,40.6689708],"type":"Point"},"name":"Superwings \u0026 Things"}
-{"_id":{"$oid":"55cba2486c522cafdb059de0"},"location":{"coordinates":[-73.9944192,40.6019831],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059de1"},"location":{"coordinates":[-73.9726666,40.7548652],"type":"Point"},"name":"Residence Inn Manhattan Midtown East"}
-{"_id":{"$oid":"55cba2486c522cafdb059de2"},"location":{"coordinates":[-73.9831712,40.74720019999999],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059de3"},"location":{"coordinates":[-74.00682599999999,40.7428114],"type":"Point"},"name":"Doughnuttery"}
-{"_id":{"$oid":"55cba2486c522cafdb059de4"},"location":{"coordinates":[-73.8299791,40.75881330000001],"type":"Point"},"name":""}
-{"_id":{"$oid":"55cba2486c522cafdb059de5"},"location":{"coordinates":[-73.830457,40.7593244],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059de6"},"location":{"coordinates":[-73.921341,40.760346],"type":"Point"},"name":"Mokja"}
-{"_id":{"$oid":"55cba2486c522cafdb059de7"},"location":{"coordinates":[-73.906438,40.669367],"type":"Point"},"name":""}
 {"_id":{"$oid":"55cba2486c522cafdb059de8"},"location":{"coordinates":[-73.99514429999999,40.7521509],"type":"Point"},"name":"Fairfield Inn Suites Penn Station"}
 {"_id":{"$oid":"55cba2486c522cafdb059de9"},"location":{"coordinates":[-73.9691347,40.6389857],"type":"Point"},"name":"Cold Press'D"}
 {"_id":{"$oid":"55cba2486c522cafdb059dea"},"location":{"coordinates":[-73.964618,40.801388],"type":"Point"},"name":"Subway"}
